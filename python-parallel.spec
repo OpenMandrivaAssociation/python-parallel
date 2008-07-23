@@ -3,7 +3,7 @@
 %define version 0.2
 %define minversion 2.2
 #python 2.2 or more needed
-%define release %mkrel 3
+%define release %mkrel 5
 
 Summary: Python parallel port extension
 Name: python-%{oname}
