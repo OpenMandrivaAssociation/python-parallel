@@ -5,7 +5,7 @@
 Summary: Python parallel port extension
 Name: python-%{oname}
 Version: 0.2
-Release: 4
+Release: 5
 Source0: %{pname}-%{version}.tar.bz2
 License: GPL
 Group: Development/Python
