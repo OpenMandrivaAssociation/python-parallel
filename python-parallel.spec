@@ -9,7 +9,7 @@ Release: 5
 Source0: %{pname}-%{version}.tar.bz2
 License: GPL
 Group: Development/Python
-URL: http://pyserial.sourceforge.net/pyparallel.html
+URL: https://pyserial.sourceforge.net/pyparallel.html
 BuildRequires: python-devel
 BuildArch: noarch
 Requires: python
